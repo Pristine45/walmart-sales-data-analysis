@@ -1,6 +1,5 @@
-# walmart-sales-data-analysis
-# Analysis of walmart sales dataset using Excel and presenting insights using PowerPoint
-
+# Walmart-sales-data-analysis
+Analysis of walmart sales dataset using Excel and presenting insights using PowerPoint
 # Excel Data Analysis project. 
 You have been presented with a sales Data for WALMART, A grocery store having branchesacross United States of America. 
 ## The store owner would like to know the following
