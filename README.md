@@ -1,7 +1,7 @@
 # Walmart-sales-data-analysis
 Analysis of walmart sales dataset using Excel and presenting insights using PowerPoint
 # Excel Data Analysis project. 
-You have been presented with a sales Data for WALMART, A grocery store having branchesacross United States of America. 
+You have been presented with a sales Data for WALMART, A grocery store having branches across United States of America. 
 ## The store owner would like to know the following
 1. What product category generated the highest income
 2. How many days on average does it take to ship our product to customers
