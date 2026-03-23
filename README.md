@@ -13,8 +13,9 @@ You have been presented with a sales Data for WALMART, A grocery store having br
 8. Explain your insights and give us recommendations on what you observed
 # Preparing the Data
 1. Removed Duplicates.
-2. Created 2 new columns for shipping year and shipping days respectively.
-3. Cleaned and Prepared Data https://github.com/Pristine45/walmart-sales-data-analysis/blob/main/WALMARTs.xlsx.
+2. Filled in empty cells
+3. Created 2 new columns for shipping year and shipping days respectively.
+4. Cleaned and Prepared Data https://github.com/Pristine45/walmart-sales-data-analysis/blob/main/WALMARTs.xlsx.
 # Analysis
 1. Created Summaries of the Data based on the objectives of the project using Pivot tables.
 . Created a Dashboard using the summarized data from the pivot tables and ojective of the project. 
