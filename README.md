@@ -29,6 +29,14 @@ You have been presented with a sales Data for WALMART, A grocery store having br
 7. The Consumer segment generates the highest profit, outperforming Corporate and Home Office segments.
 ## Overall:
 The business is growing steadily with strong category and regional performers, but profitability disparities across states present risk exposure.
+# Recommendations
+Expand Technology category investment through inventory scaling, bundling, and targeted promotions.
+Improve delivery efficiency by optimizing logistics to reduce shipping time below 3.5 days.
+Address Ohio’s losses through pricing review, cost reduction, and product mix analysis.
+Replicate Indiana and West region strategies in underperforming states.
+Strengthen retention of top 10 customers with loyalty programs and personalized engagement.
+Focus growth strategy on the Consumer segment through digital marketing and customer experience enhancement.
+
 ## Tools Used Throughout The Process
 1. Excel
 2. PowerPoint
