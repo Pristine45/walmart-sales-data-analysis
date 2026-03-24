@@ -27,7 +27,7 @@ You have been presented with a sales Data for WALMART, A grocery store having br
 5. Sales experienced steady growth from 2014 to 2017, reflecting scalable and expanding business model.
 6. The West region leads in profitability, indicating stronger market performance and operational efficiency.
 7. The Consumer segment generates the highest profit, outperforming Corporate and Home Office segments.
-#Overall:
+# Overall:
 The business is growing steadily with strong category and regional performers, but profitability disparities across states present risk exposure.
 ## Tools Used Throughout The Process
 1. Excel
