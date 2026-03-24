@@ -30,12 +30,12 @@ You have been presented with a sales Data for WALMART, A grocery store having br
 ## Overall:
 The business is growing steadily with strong category and regional performers, but profitability disparities across states present risk exposure.
 # Recommendations
-Expand Technology category investment through inventory scaling, bundling, and targeted promotions.
-Improve delivery efficiency by optimizing logistics to reduce shipping time below 3.5 days.
-Address Ohio’s losses through pricing review, cost reduction, and product mix analysis.
-Replicate Indiana and West region strategies in underperforming states.
-Strengthen retention of top 10 customers with loyalty programs and personalized engagement.
-Focus growth strategy on the Consumer segment through digital marketing and customer experience enhancement.
+1. Expand Technology category investment through inventory scaling, bundling, and targeted promotions.
+2. Improve delivery efficiency by optimizing logistics to reduce shipping time below 3.5 days.
+3. Address Ohio’s losses through pricing review, cost reduction, and product mix analysis.
+4. Replicate Indiana and West region strategies in underperforming states.
+5. Strengthen retention of top 10 customers with loyalty programs and personalized engagement.
+6. Focus growth strategy on the Consumer segment through digital marketing and customer experience enhancement.
 
 ## Tools Used Throughout The Process
 1. Excel
