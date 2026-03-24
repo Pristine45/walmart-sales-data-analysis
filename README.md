@@ -18,4 +18,7 @@ You have been presented with a sales Data for WALMART, A grocery store having br
 4. Cleaned and Prepared Data https://github.com/Pristine45/walmart-sales-data-analysis/blob/main/WALMARTs.xlsx.
 # Analysis
 1. Created Summaries of the Data based on the objectives of the project using Pivot tables.
-. Created a Dashboard using the summarized data from the pivot tables and ojective of the project. 
+2. Created a Dashboard using the summarized data from the pivot tables and ojective of the project. 
+## Tools Used Throughout The Process
+1. Excel
+2. PowerPoint
