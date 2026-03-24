@@ -19,7 +19,7 @@ You have been presented with a sales Data for WALMART, A grocery store having br
 # Analysis
 1. Created Summaries of the Data based on the objectives of the project using Pivot tables.
 2. Created a Dashboard using the summarized data from the pivot tables and ojective of the project.
-## Insights
+# Insights
 1. Technology is the highest revenue-generating category, indicating strong customer demand and premium pricing potential.
 2. Average delivery time is 3.96 days, showing moderate operational efficiency with room for optimization.
 3. Revenue is a bit concentrated among the Top 10 customers, highlighting dependency on high-value buyers.
@@ -27,7 +27,7 @@ You have been presented with a sales Data for WALMART, A grocery store having br
 5. Sales experienced steady growth from 2014 to 2017, reflecting scalable and expanding business model.
 6. The West region leads in profitability, indicating stronger market performance and operational efficiency.
 7. The Consumer segment generates the highest profit, outperforming Corporate and Home Office segments.
-# Overall:
+## Overall:
 The business is growing steadily with strong category and regional performers, but profitability disparities across states present risk exposure.
 ## Tools Used Throughout The Process
 1. Excel
