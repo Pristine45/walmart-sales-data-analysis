@@ -28,8 +28,6 @@ You have been presented with a sales Data for WALMART, A grocery store having br
 5. Sales experienced steady growth from 2014 to 2017, reflecting scalable and expanding business model.
 6. The West region leads in profitability, indicating stronger market performance and operational efficiency.
 7. The Consumer segment generates the highest profit, outperforming Corporate and Home Office segments.
-## Overall:
-The business is growing steadily with strong category and regional performers, but profitability disparities across states present risk exposure.
 ## Recommendations
 1. Expand Technology category investment through inventory scaling, bundling, and targeted promotions.
 2. Improve delivery efficiency by optimizing logistics to reduce shipping time below 3.5 days.
@@ -37,7 +35,7 @@ The business is growing steadily with strong category and regional performers, b
 4. Replicate Indiana and West region strategies in underperforming states.
 5. Strengthen retention of top 10 customers with loyalty programs and personalized engagement.
 6. Focus growth strategy on the Consumer segment through digital marketing and customer experience enhancement.
-
+https://github.com/Pristine45/walmart-sales-data-analysis/blob/main/Report/Presentation.pptx
 ## Tools Used Throughout The Process
 1. Excel
 2. PowerPoint
